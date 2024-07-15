@@ -1,4 +1,5 @@
-This website provides temperature of a city all over the world in real-time.
+This website provides real-time temperature updates for cities around the world.
+
 
 **Technologies Used**
 +HTML
